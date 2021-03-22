@@ -1,0 +1,2 @@
+The Rust Programming Lunguageの日本語訳
+https://doc.rust-jp.rs/
